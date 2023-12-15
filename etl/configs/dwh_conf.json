@@ -1,0 +1,8 @@
+{
+  "dwh": [
+    "hash_key_ip_mapping",
+    "hash_key_url_mapping",
+    "ads_and_trackers",
+    "malware"
+  ]
+}
